@@ -1,24 +1,24 @@
-# Personal Budget Tracker (C)
+Personal Budget Tracker (C)
 
-A simple Personal Budget Tracker built using the C programming language.
+	A command-line based Personal Budget Tracker developed in C to manage daily income and expenses efficiently. The application allows users to record financial transactions, track spending, and maintain a persistent record using file handling.
 
-## Features
-- Add Salary
-- Add Fixed Expenses
-- Add Daily Expenses
-- Add Extra Income
-- View Account Statement
-- Check Current Balance
-- Monthly Summary
-- Search Transactions by Date
-- Delete Transactions
+Features
 
-## Concepts Used
-- Structures
-- File Handling
-- Binary Files
-- Modular Programming
-- Menu Driven Programs
+	Add Salary and Extra Income
+	Record Fixed and Daily Expenses
+	View Detailed Account Statement
+	Check Current Balance in real-time
+	Generate Monthly Summary of transactions
+	Search transactions by date
+	Delete unwanted records
+
+Concepts Used
+
+	Structures
+	File Handling (Binary Files)
+	Pointers
+	Modular Programming
+	Menu-Driven Design
 
 ## Author
 Dhanusha Thatchayini
