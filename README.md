@@ -42,7 +42,7 @@ Income added successfully!
 
 ## Project Files
 
-1_Personal_Budget_Tracker.c – Main program file
+1_Personal_Budget_Tracker.c – Main program file.
 data.dat – Stores transaction records (generated during execution)
 
 
